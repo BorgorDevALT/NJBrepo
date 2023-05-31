@@ -1,0 +1,17 @@
+{
+    "name": "NJB APPS",
+    "identifier": "xyz.hieuddo.ipalibrary",
+    "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
+    "apps": [
+        {
+            "name": "Cowabunga",
+            "bundleIdentifier": "com.leemin.Cowabunga",
+            "version": "10.3.0",
+            "versionDate": "2023-05-29",
+            "size": 16285936,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-29-2023/Cowabunga-10.3.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.leemin.Cowabunga.png"
+        }
+}
